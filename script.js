@@ -3,7 +3,7 @@ const games = [
     title: "Ludo",
     description: "Play Ludo",
     thumbnail: "ludo.jpg",
-    url: "game1.html"
+    url: "ludo.html"
   },
   {
     title: "Quiz",
@@ -15,7 +15,7 @@ const games = [
     title: "Snake & Ladder",
     description: "Play Snake&ladder",
     thumbnail: "snake.png",
-    url: "game3.html"
+    url: "snake.html"
   },
   {
       title: "CourtRoom",
